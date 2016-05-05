@@ -1,0 +1,12 @@
+100  Site is hosted on Heroku
+100  Site has a custom DNS klenhard.jumpingcrab.com
+300  Site has 4 html pages with content and navigation
+200  Site utilizes Bootstrap and Custom CSS
+50   Integrate 3rd party Widget: Twitter API feed and Embedded Youtube video
+50   FontAwesome Icons used in navigation
+50   Integrate JavaScript component, used for responsive menu button for
+     navigation
+50   Use at least 2 custom images: Index page pictures from inside Spartan 
+     Stadium during last years Oregon game, top right logo for web site
+100  Discretionary Grading
+

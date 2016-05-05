@@ -1,0 +1,207 @@
+/*Body Styles*/
+body {
+    padding-top: 70px;
+    height: auto;
+    background-color: #ffe1ab;
+    font-family: 'Fauna One', Georgia, serif;
+    
+}
+/*Font for Headers*/
+h1,
+h2,
+h3 {
+    font-family: 'Khand', Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+/*Nav Styles*/
+nav {
+    margin-bottom: 0;
+}
+#nav-update {
+    background-color: #FFFFFF;
+}
+#nav-update a {
+    color: #0D0D58;
+}
+.navbar-brand {
+    padding-top: 0px;
+    max-width: 25%; 
+}
+
+.logo {
+    max-height: 50px;
+    display: inline-block;
+}
+
+/*Main Paby Styles*/
+.head {
+    background-image: url("/img/football_field.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.head2 {
+    background-image: url("/img/ball.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.head3 {
+    background-image: url("/img/play.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.head4 {
+    background-image: url("/img/scoreboard.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 250px;
+}
+.head div,
+.head2 div,
+.head3 div,
+.head4 div{
+    padding: 10px;
+    background-color: rgba(102, 96, 96,0.65);
+    width: 75%;
+    height: 100%;
+    margin: auto;
+    color: aliceblue;
+}
+.head h1,
+.head2 h1,
+.head3 h1,
+.head4 h1{
+    margin-bottom: 0px;
+}
+.head p,
+.head2 p,
+.head3 p,
+.head4 p{
+    font-size: 1.2rem;
+    max-width: 500px;
+    text-indent: 0;
+}
+p {
+    padding: 35px;
+    max-width: 800px;
+    margin: auto;
+}
+section p {
+    text-indent: 30px;
+}
+section ul {
+    max-width: 500px;
+    margin: auto;
+}
+.img-center {
+    margin: auto;
+}
+.nfl {
+    margin: 25px auto;
+}
+.teams {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+.teams h2 {
+    margin: auto;
+    margin-top: 50px;
+    font-size: 4.0rem;
+    width: 50%;
+    background-color: darkblue;
+    color: azure;
+    border-radius: 10px;
+    padding: 10px;  
+}
+.teams table {
+    margin: 20px auto;
+    display: inline;
+}
+.teams td,
+.teams th {
+    padding: 5px;
+    text-align: left;
+}
+.teams th {
+    font-weight: bolder;
+}
+.teams caption {
+    font-size: 24px;
+    color: black;
+    background-color: cornflowerblue;
+    margin-top: 15px;
+    padding: 5px;
+    text-align: center;
+}
+/*iFrame Styling for YouTube Videos*/
+iframe {
+    display: inline-block;
+    margin: 0 5px 35px 5px;
+}
+.iframe {
+    width: 95%;
+    margin: auto;
+    text-align: center;
+}
+/*Twitter API Styles*/
+.table{
+    display:table;
+    height: auto;
+    width: 100%;
+    width: 75%;
+    margin: auto;
+    text-align: center;
+}
+.table-cell{
+    display:table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+/*Footer Styles*/
+footer {
+    background-color: azure;
+    text-align: center;
+    width: 100%;
+    height: auto;
+    margin-top: 25px;
+    padding: 15px;
+    
+}
+footer img {
+    width: 20%;
+    height: auto;
+    border-radius: 50%;
+    margin: auto;
+    display: inline-block;
+    margin: 5px;
+}
+.foot-link ul {
+    list-style: none;
+    padding-left: 0;
+}
+.foot-link li{
+    display: inline;
+    list-style: none;
+    margin: 2.5px;
+    padding: 5px;
+    font-size: 0.75em;
+    
+}
+.social {
+    width: 25%;
+    margin: auto;
+    padding: 5px;
+}
+.facebook {
+    background-color: #3d5b99;
+}
+.twitter {
+    background-color: #fff;
+}
+.youtube {
+    background-color: #fff;
+}
